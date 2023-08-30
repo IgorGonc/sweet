@@ -1,0 +1,33 @@
+:root{
+    font-family: 'Great Vibes', cursive;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Para centralizar verticalmente também */
+}
+
+
+#container h1{
+    font-size: 70px;
+    
+    
+}
+
+#container{
+    position: absolute;
+    top: 20px;
+    border: 1px solid;
+    width: 500px;
+    border-radius: 4px;
+    text-align: center;
+    align-items: top;
+}
+
+
+#botao-pg2{
+    text-align: center;
+    border: 1px solid;
+}
