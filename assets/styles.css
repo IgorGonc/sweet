@@ -9,7 +9,6 @@ body {
     height: 100vh; /* Para centralizar verticalmente também */
 }
 
-
 #container h1{
     font-size: 70px;
     
@@ -30,4 +29,20 @@ body {
 #botao-pg2{
     text-align: center;
     border: 1px solid;
+}
+
+#botao-pg2 h2{
+    text-align: left;
+    margin: 0;
+    
+}
+
+#centralizador{
+    align-items: center;
+    width: 500px;
+    border: 1px solid;
+}
+
+#pao{
+    position: absolute;
 }
